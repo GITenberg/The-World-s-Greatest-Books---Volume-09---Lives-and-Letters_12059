@@ -1,0 +1,48 @@
+_repo: The-World-s-Greatest-Books---Volume-09---Lives-and-Letters_12059
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+- GITenberg
+tableOfContents: 'Abélard And Héloïse: Love-letters -- H.F. Amiel: Fragments of an
+  intimate diary -- Saint Augustine: Confessions -- James Boswell: Life of Samuel
+  Johnson, LL.D. -- Sir David Brewster: Life of Sir Isaac Newton -- John Bunyan: Grace
+  abounding -- Alexander Carlyle: Autobiography -- Thomas Carlyle: Letters and speeches
+  of Oliver Cromwell. Life of Schiller -- Benvenuto Cellini: Autobiography -- François
+  René de Chateaubriand: Memoirs from beyond the grave -- Earl of Chesterfield: Letters
+  to his son -- Marcus Tullius Cicero: Letters -- Samuel Taylor Coleridge: Biographia
+  literaria -- William Cowper: Letters -- Thomas De Quincey: Confessions of an English
+  opium-eater -- Alexandre Dumas: Memoirs -- John Evelyn: Diary -- John Forster: Life
+  of Goldsmith -- George Fox: Journal -- Benjamin Franklin: Autobiography -- Mrs.
+  Gaskell: The life of Charlotte Brontë -- Edward Gibbon: Memoirs -- J.W. von Goethe:
+  Letters to Zelter. Poetry and truth. Conversations with Eckermann -- Thomas Gray:
+  Letters -- Antony Hamilton: Memoirs of the Count de Grammont -- Nathaniel Hawthorne:
+  Our old home.'
+title: The World's Greatest Books — Volume 09 — Lives and Letters
+url: http://www.gutenberg.org/ebooks/12059
