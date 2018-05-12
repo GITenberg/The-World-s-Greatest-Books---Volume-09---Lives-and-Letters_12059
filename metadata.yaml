@@ -1,5 +1,8 @@
 _repo: The-World-s-Greatest-Books---Volume-09---Lives-and-Letters_12059
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Mee, Arthur
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12059#The-World-s-Greatest-Books---Volume-09---Lives-and-Letters
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
